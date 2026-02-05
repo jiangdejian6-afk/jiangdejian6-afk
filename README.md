@@ -23,7 +23,7 @@
 
 <br/>
 
-<!-- 主要内容区域 -->
+<!-- 主要内容区域：使用纯 HTML 修复渲染崩溃问题 -->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -59,14 +59,14 @@
     <td width="50%" valign="top">
       <h3 align="center">🚀 GitHub Stats</h3>
       <div align="center">
-        <!-- 【这里修改了】增加了 <a href> 标签包裹图片 -->
-        <a href="https://github.com/YOUR_GITHUB_USERNAME">
-          <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Dejian's Stats" width="100%" />
+        <!-- 统计卡片：点击跳转到个人主页 -->
+        <a href="https://github.com/jiangdejian6-afk">
+          <img src="https://github-readme-stats.vercel.app/api?username=jiangdejian6-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Dejian's Stats" width="100%" />
         </a>
         <br/>
-        <!-- 【这里修改了】点击跳转到仓库页 -->
-        <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" width="100%" />
+        <!-- 常用语言：点击跳转到仓库列表 -->
+        <a href="https://github.com/jiangdejian6-afk?tab=repositories">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangdejian6-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" width="100%" />
         </a>
       </div>
     </td>
@@ -95,9 +95,9 @@
 <!-- 贡献频率 -->
 <h3 align="center">🧩 Coding Frequency</h3>
 <div align="center">
-  <!-- 【这里修改了】点击跳转到 Profile -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <!-- 连续打卡：点击跳转到个人主页 -->
+  <a href="https://github.com/jiangdejian6-afk">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiangdejian6-afk&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -107,7 +107,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005eb8,100:003865&height=100&section=footer" />
   <br/>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=005eb8" alt="Visitor Count" />
+  <a href="https://github.com/jiangdejian6-afk">
+    <img src="https://komarev.com/ghpvc/?username=jiangdejian6-afk&style=flat-square&color=005eb8" alt="Visitor Count" />
   </a>
 </div>
