@@ -1,14 +1,14 @@
-<!-- 头部动态打字效果：展示身份 -->
+<!-- 头部动态打字效果 -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=003865&center=true&vCenter=true&width=435&lines=Hi,+I'm+Dejian+Jiang+👋;UESTC+%26+UofG+Student;Network+Dynamics+Researcher;Embedded+System+Developer" alt="Typing SVG" />
 </div>
 
-<!-- 顶部波浪分割线：使用 UESTC/UofG 标志性的深蓝色系 -->
+<!-- 顶部波浪分割线 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003865,100:005eb8&height=180&section=header&text=Engineering%20%C3%97%20Intelligence&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Exploring%20the%20beauty%20of%20Algorithms%20and%20Circuits&descAlignY=55&descAlign=50" />
 </div>
 
-<!-- 社交联系方式 -->
+<!-- 社交联系方式 (已补全链接) -->
 <div align="center">
   <a href="mailto:jiangdejian6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -23,37 +23,56 @@
 
 <br/>
 
-<!-- 主要内容区域：HTML 表格双栏布局 -->
+<!-- 主要内容区域：使用纯 HTML 修复渲染崩溃问题 -->
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">👨‍💻 About Me</h3>
-      <br>
-      
-      - 🎓 **Undergraduate @** [UESTC](https://www.uestc.edu.cn/) & [UofG](https://www.gla.ac.uk/) (Dual Degree)
-      - 🏫 **Class of 2023** (Hainan Campus, Lingshui)
-      - 🔭 **Focusing on**:
-        - 🕸️ **Network Dynamics**
-        - 🧠 **Representation Learning**
-        - 👁️ **Computer Vision**
-      - 🏆 **Achievement**:
-        - **National 2nd Prize**, NUEDC (全国大学生电子设计竞赛)
-      - 📍 **Location**: Hainan, China
-      
+      <ul>
+        <li>
+            🎓 <b>Undergraduate @</b> 
+            <a href="https://www.uestc.edu.cn/">UESTC</a> & 
+            <a href="https://www.gla.ac.uk/">UofG</a> (Dual Degree)
+        </li>
+        <li>
+            🏫 <b>Class of 2023</b> (Hainan Campus, Lingshui)
+        </li>
+        <li>
+            🔭 <b>Focusing on</b>:
+            <ul>
+                <li>🕸️ Network Dynamics</li>
+                <li>🧠 Representation Learning</li>
+                <li>👁️ Computer Vision</li>
+            </ul>
+        </li>
+        <li>
+            🏆 <b>Achievement</b>:
+            <ul>
+                <li><b>National 2nd Prize</b>, NUEDC (全国大学生电子设计竞赛)</li>
+            </ul>
+        </li>
+        <li>
+            📍 <b>Location</b>: Hainan, China
+        </li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🚀 GitHub Stats</h3>
       <div align="center">
-        <!-- ⚠️ 请替换 YOUR_GITHUB_USERNAME -->
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Dejian's Stats" width="100%" />
+        <!-- ⚠️ 请务必按 Ctrl+F 查找 YOUR_GITHUB_USERNAME 并替换为你真实的 GitHub 用户名 -->
+        <a href="https://github.com/YOUR_GITHUB_USERNAME">
+          <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Dejian's Stats" width="100%" />
+        </a>
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" width="100%" />
+        <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" width="100%" />
+        </a>
       </div>
     </td>
   </tr>
 </table>
 
-<!-- 技术栈展示：分为 AI/软件 和 硬件/嵌入式 两行 -->
+<!-- 技术栈展示 -->
 <h3 align="center">🛠️ Tech Stack & Arsenal</h3>
 
 <div align="center">
@@ -72,11 +91,12 @@
 
 <br/>
 
-<!-- 贡献热力图 (Streak Stats) -->
+<!-- 贡献频率 -->
 <h3 align="center">🧩 Coding Frequency</h3>
 <div align="center">
-  <!-- ⚠️ 请替换 YOUR_GITHUB_USERNAME -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
@@ -85,6 +105,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005eb8,100:003865&height=100&section=footer" />
   <br/>
-  <!-- ⚠️ 请替换 YOUR_GITHUB_USERNAME -->
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=005eb8" alt="Visitor Count" />
 </div>
