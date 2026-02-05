@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003865,100:005eb8&height=180&section=header&text=Engineering%20%C3%97%20Intelligence&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Exploring%20the%20beauty%20of%20Algorithms%20and%20Circuits&descAlignY=55&descAlign=50" />
 </div>
 
-<!-- 社交联系方式 (已补全链接) -->
+<!-- 社交联系方式 -->
 <div align="center">
   <a href="mailto:jiangdejian6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -23,7 +23,7 @@
 
 <br/>
 
-<!-- 主要内容区域：使用纯 HTML 修复渲染崩溃问题 -->
+<!-- 主要内容区域 -->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -59,11 +59,12 @@
     <td width="50%" valign="top">
       <h3 align="center">🚀 GitHub Stats</h3>
       <div align="center">
-        <!-- ⚠️ 请务必按 Ctrl+F 查找 YOUR_GITHUB_USERNAME 并替换为你真实的 GitHub 用户名 -->
+        <!-- 【这里修改了】增加了 <a href> 标签包裹图片 -->
         <a href="https://github.com/YOUR_GITHUB_USERNAME">
           <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Dejian's Stats" width="100%" />
         </a>
         <br/>
+        <!-- 【这里修改了】点击跳转到仓库页 -->
         <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" width="100%" />
         </a>
@@ -94,6 +95,7 @@
 <!-- 贡献频率 -->
 <h3 align="center">🧩 Coding Frequency</h3>
 <div align="center">
+  <!-- 【这里修改了】点击跳转到 Profile -->
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
   </a>
@@ -105,5 +107,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005eb8,100:003865&height=100&section=footer" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=005eb8" alt="Visitor Count" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=005eb8" alt="Visitor Count" />
+  </a>
 </div>
